@@ -29,10 +29,9 @@ The app also generates a structured dataset (CSV) for further analysis.
 ## 🖼️ Screenshots  
 
 ### 🔹 Upload & Analysis Page  
-![App Upload](assets/app_upload.png)  
-
-### 🔹 Dataset Preview  
-![Dataset Preview](assets/dataset_preview.png)  
+<img width="1748" height="343" alt="image" src="https://github.com/user-attachments/assets/901955ad-dced-4c6c-b902-01c9b7f21081" />
+<img width="1748" height="1021" alt="image" src="https://github.com/user-attachments/assets/af0acab1-9ada-4c7a-b54e-e7bef7fbbee6" />
+<img width="1757" height="443" alt="image" src="https://github.com/user-attachments/assets/bcec6411-4ea8-484d-b03e-2a463e52d3a8" />
 
 ---
 
